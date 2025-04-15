@@ -1,6 +1,3 @@
----
-
-```markdown
 # 👨‍💻 My Cybersecurity Portfolio
 
 Hi, I'm Burakhan — a first-year CS student at FH Münster with a strong background in SOC operations, threat detection, and hands-on cybersecurity investigations.
@@ -75,5 +72,3 @@ I'm especially interested in detection engineering, incident response, and real-
 - 📧 Email: bnarlioglu.bewerbung@gmail.com
 - 💻 [GitHub Portfolio](https://github.com/BNarlioglu)
 ```
-
----
