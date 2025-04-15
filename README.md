@@ -9,7 +9,7 @@ Hi, I'm Burakhan — a first-year CS student at FH Münster with a strong backgr
 - 📍 Based in Germany
 - 🎓 First-year Computer Science student at FH Münster  
 - 🛡️ Completed a 1-year cybersecurity Weiterbildung with hands-on training 
-- 🕵️‍♂️ Over 2 years of experience as a Tier 2 SOC Analyst Intern at an MSSP
+- 🕵️‍♂️ Over 2 years of experience as a Tier 1 SOC Analyst Intern at an MSSP
 - 🔌 Previous academic year in Electrical Engineering in Turkey before pivoting fully into cybersecurity  
 
 ### Certifications and Specializations:
